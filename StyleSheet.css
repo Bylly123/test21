@@ -15,12 +15,14 @@ body{
 }
 
 .right{
-    margin-top: 5px;
+    margin-top: 20px;
     display: flexbox;
     text-decoration: none;
     float: right;
-    padding: 15px 15px;
+    padding: 15px 10px;
     background: white;
+    border: transparent;
+    border-radius: 5px;
 }
 
 .left{
