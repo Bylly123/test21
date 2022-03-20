@@ -11,8 +11,10 @@ body{
 .right{
     text-decoration: none;
     float: right;
+    padding: 15px 15px;
 }
 
 .left{
     float: left;
+    padding: 15px 15px;
 }
