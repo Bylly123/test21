@@ -3,6 +3,7 @@ body{
 }
 
 .navbar{
+    margin: 0;
     background: orangered;
     text-decoration: none;
     overflow: hidden;
