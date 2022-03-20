@@ -5,8 +5,7 @@ body{
 .navbar{
     background: orangered;
     text-decoration: none;
-    height: 30px;
-    width: 100%;
+    overflow: hidden;
 }
 
 .right{
