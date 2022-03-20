@@ -15,7 +15,8 @@ body{
 }
 
 .right{
-    margin-top: 15px; 
+    margin-top: 15px;
+    margin-right: 5px;
     text-decoration: none;
     float: right;
     padding: 10px 15px;
