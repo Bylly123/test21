@@ -5,3 +5,8 @@ body{
 .navbar{
     background: orangered;
 }
+
+.right{
+    text-decoration: none;
+    float: right;
+}
