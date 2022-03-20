@@ -4,11 +4,11 @@ body{
 
 .navbar{
     background: orangered;
-    float: right;
     text-decoration: none;
     height: 30px;
 }
 
 .right{
     text-decoration: none;
+    float: right;
 }
