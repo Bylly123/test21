@@ -18,10 +18,17 @@ body{
     margin-top: 15px; 
     text-decoration: none;
     float: right;
-    padding: 15px 13px;
+    padding: 10px 15px;
     background: white;
     border: transparent;
     border-radius: 5px;
+    color: black;
+    border-color: white;
+}
+
+.right:hover{
+    color: white;
+    border-color: black;
 }
 
 .left{
