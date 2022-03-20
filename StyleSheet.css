@@ -16,7 +16,6 @@ body{
 
 .right{
     margin-top: 15px;
-    display: flexbox;
     text-decoration: none;
     float: right;
     padding: 15px 13px;
