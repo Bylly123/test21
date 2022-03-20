@@ -13,3 +13,7 @@ body{
     text-decoration: none;
     float: right;
 }
+
+.left{
+    float: left;
+}
