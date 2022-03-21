@@ -1,12 +1,12 @@
-body{
+body {
     background-color: white;
 }
 
-*{
+* {
     margin: 0;
 }
 
-.navbar{
+.navbar {
     margin: 0;
     background: orangered;
     text-decoration: none;
@@ -14,7 +14,7 @@ body{
     height: 70px;
 }
 
-.right{
+.right {
     margin-top: 15px;
     margin-right: 5px;
     text-decoration: none;
@@ -27,8 +27,11 @@ body{
     border-color: white;
 }
 
-.right:hover{
+.right a {
+    color: green;
+}
+
+.right:hover {
     color: white;
     border-color: black;
 }
-
