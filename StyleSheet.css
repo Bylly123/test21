@@ -31,6 +31,6 @@ body {
     color: green;
 }
 
-.right:hover {
+.right a:hover {
     color: black;
 }
