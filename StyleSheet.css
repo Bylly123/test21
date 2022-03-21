@@ -32,6 +32,6 @@ body {
 }
 
 .right:hover {
-    color: white;
-    border-color: black;
+    color: black;
+    border-color: white;
 }
